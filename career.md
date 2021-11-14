@@ -23,7 +23,7 @@ title: VR
 
 * 가평군 설악면 육각수 마을 **어비 계곡** [https://www.youtube.com/watch?v=UeJnSMlNIDg]
 
-* 
+* 안산시 단원군 대부중앙로 **대부도 에코 뮤지엄** [https://www.youtube.com/watch?v=Mhn33kR6D4I] 
 
 <br/>
 
@@ -77,9 +77,9 @@ title: VR
 
 ### [경상남도]
 
-* 함평
+* 함평군 대동면 **함평 생태공원** [https://www.youtube.com/watch?v=3aecUvDis3Y]
 
-* 거창군 **거창 창포원** []
+* 거창군 남산면 창포원길 **거창 창포원** [https://www.youtube.com/watch?v=2lCfdaes-i4]
 
 *
 
