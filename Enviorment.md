@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Enviorment
+title: publication
 ---
 
 !["C:\Users\82106\Desktop\푸릇여행도시락.jpg"]("C:\Users\82106\Desktop\푸릇여행도시락.jpg")
