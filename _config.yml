@@ -1,13 +1,13 @@
 # --- Basic options --- #
 
 # [수정필요] 웹페이지 이름
-title: PhD. Seokho Son
+title: Green Lunch Box
 
 # [수정필요] 간단한 사이트 설명
-description: Acedemic Website of Seokho Son
+description: Green Lunch Box
 
 # [수정필요] 웹페이지 아래에 나오는 웹사이트 저자 이름
-author: Seokho Son
+author: Hyein Kim
 
 # [조건부수정] 네비게이션 바에 포함되는 항목 (명칭 수정, 추가, 삭제 가능)
 # 예를 들어 ETRI 라는 항목을 네비게이션 바에 추가하고 싶은 경우, etri.md 파일 생성 후 ETRI: "etri" 라고 지정.
@@ -36,25 +36,25 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "shsonkorea@etri.re.kr"
-  facebook: seokho.son.korea
-  github: seokho-son
-  linkedin: seokho-son
+  email: "greenlunchbox@naver.com"
+  facebook: greenlunchbox.korea
+  github: greenlunchbox
+  linkedin: greenlunchbox
 #  twitter: daattali
 #  rss: true
-#  reddit: yourname
-#  xing: yourname
+#  reddit: 김혜인
+#  xing: 김혜인
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  youtube: user/deanat78
-#  spotify: yourname
-#  telephone: +14159998888
+#  spotify: 김혜인
+#  telephone: +020000000
 #  steam: deanat78
-#  twitch: yourname
+#  twitch: 김혜인
 #  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
+#  telegram: 김혜인
+#  calendly: 김혜인
 #  mastodon: instance.url/@username
 
 # [수정필요] 연락을 위한 타 사이트 정보 활성화 여부 지정 (필요 없는 경우 주석 처리)
