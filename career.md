@@ -60,9 +60,9 @@ title: VR
 
 * 부여 초천면 **친환경 까치마을** [https://www.youtube.com/watch?v=Dhk2FyIGJoA]
 
-*
+* 보령 청라면 **청라생태마을체험학교** [https://www.youtube.com/watch?v=mqmyzlNCsqs]
 
-*
+* 천안시 서북구 **비건정원** [https://www.youtube.com/watch?v=2ZN-6BjSZ14]
 
 <br/>
 
