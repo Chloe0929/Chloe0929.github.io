@@ -21,7 +21,7 @@ navbar-links:
 
 
 # [수정필요] 아바타 로고 사용 시에는 이미지 파일을 지정 (이미지 파일 업로드 후, 위치 지정)
-avatar: "C:\Users\82106\Desktop\에코 아이콘.jpg"
+avatar: "assets/img/에코 아이콘.jpg"
 # 원형 아바타 이미지 여부 `true` 또는 `false`
 round-avatar: true
 
@@ -252,5 +252,5 @@ prose:
           label: "Publish"
           help: "Check to publish post, uncheck to hide."
 
-# Beautiful Jekyll / Dean Attali
+# GreenLunchBox / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
