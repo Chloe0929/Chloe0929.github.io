@@ -39,18 +39,18 @@ title: VR
 
 # [강원도]  
 
-* 광주시 도척면 도웅리 **화담숲**
+* 광주시 도척면 도웅리 **화담숲** [https://www.youtube.com/watch?v=BNC8o-0rdHI]
 
-* 가평군 설악면 육각수 마을 **어비 계곡**
+* 가평군 설악면 육각수 마을 **어비 계곡** [https://www.youtube.com/watch?v=0zZZV2Psebo]
 
-*
+* 춘천 서부대성로 **요선당** [https://www.youtube.com/watch?v=-bM6CB8PDGQ]
 
 <br/>
 
 # [충청도]
 ### [충청북도]
 
-* **새활용플라자**
+* 
 
 * 
 
@@ -88,20 +88,20 @@ title: VR
 # [전라도]  
 ### [전라북도]
 
-* 광주시 도척면 도웅리 **화담숲**
+* 전주시 **늘미곡** [https://www.youtube.com/watch?v=yDNf5KLZBJk]
 
-* 가평군 설악면 육각수 마을 **어비 계곡**
+* 남원 천거동 **광한루원** [https://www.youtube.com/watch?v=z3F0K-8PJcM]
 
-*
+* 순창 **강천산** [https://www.youtube.com/watch?v=Jm1p2r0qS0w] ⛰️
 
 
 ### [전라남도]
 
 * 목포시 영산로 **최소한끼** [https://www.youtube.com/watch?v=UzFSrIb5-nQ]
 
-*
+* 화순군 이서면 월산리 **화순적벽** [https://www.youtube.com/watch?v=A_dalTGZJ6k] 🏞️
 
-*
+* 담양군 담양읍 **메타세콰이어 길** [https://www.youtube.com/watch?v=l5if-7TJ4_g] 🌳
 
 <br/>
 
@@ -113,8 +113,8 @@ title: VR
 
 ### [독도]
 
-* 경상북도 독도군 [https://www.youtube.com/watch?v=KRDl_adc-KQ]
+* 울릉군 **독도** [https://www.youtube.com/watch?v=KRDl_adc-KQ]
 
 ### [제주도]
 
-* [https://www.youtube.com/watch?v=T0zQdMb8ApA]
+* 제주시 한림읍 귀덕길 **지구상회** [https://www.youtube.com/watch?v=T0zQdMb8ApA]
