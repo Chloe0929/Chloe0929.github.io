@@ -1,15 +1,18 @@
 ---
 layout: page
-title: Research Career
+title: VR
 ---
 
 <br/>
 
 
-# Research Experience
+# **VR로 즐기는 온라인 여행** 
+### 집에서나 밖에서나 어디에서나 즐길 수 있습니다. 
+### GLB에서 함께 만나보세요!
+#### “인간은 자연과 조화를 이룰 때만이 참 생명으로 살아갈 수 있습니다. GLB의 바른 신념이 자연환경을 넘어 우리 모두의 마음까지 푸르게 만들게 되기를 기대합니다. GLB의 걸음에 여러분도 함께 동참해주시길 바랍니다.😊”
 
-### Electronics and Telecommunications Research Institute
-#### Senior Researcher, 2014 to Present
+### [경기도] 광주시 도척면 도웅리 **화담숲**
+#### 
 
 * Project (ongoing): _**Multi-cloud service common framework**_
   * Role: design and development of multi-cloud platform, open-source based project management, standardization activity
