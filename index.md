@@ -7,7 +7,7 @@ cover-img: C:\Users\82106\Desktop\푸릇여행도시락.jpg
 
 <br/>
 
-## About Green Lunch Box
+## Green Lunch Box에 대하여
 
 GLB는 Green Lunch Box에 약자입니다. GLB에서 제공하는 여행코스들과 정보들은 도시락(Lunch Box)처럼 꺼내먹기 좋게 간편합니다. 그러나 일회용 도시락이 아닌, 환경도 지키고 즐거운 추억까지 만들 수 있는 지속가능한 도시락입니다. 하여, 우리 지구를 생각하는 마음을 담아 Green이 도시락 명 앞에 붙습니다.
 
