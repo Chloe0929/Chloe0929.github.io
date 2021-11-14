@@ -58,7 +58,7 @@ title: VR
 
 #### [충청남도]
 
-*
+* 부여 초천면 **친환경 까치마을** [https://www.youtube.com/watch?v=Dhk2FyIGJoA]
 
 *
 
