@@ -2,7 +2,7 @@
 layout: page
 title: Green Lunch Box
 subtitle: Green Lunch Box, ETRI
-cover-img: C:\Users\82106\Desktop\푸릇여행도시락.jpg
+cover-img: /assets/img/푸릇여행도시락.jpg
 ---
 
 <br/>
