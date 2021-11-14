@@ -50,11 +50,11 @@ title: VR
 # [충청도]
 ### [충청북도]
 
-* 
+* 괴산 청천면 **화양구곡** [https://www.youtube.com/watch?v=VpbAVwx7Ffs]
 
-* 
+* 청주시 상당구 문의면 **문의문화재단지** [https://www.youtube.com/watch?v=1dF10MVwXdM]
 
-*
+* 옥천읍 수북리 **향수호수길** [https://www.youtube.com/watch?v=eJwEQTxIHE4]
 
 #### [충청남도]
 
@@ -71,9 +71,9 @@ title: VR
 
 * 상주시 도남동 **자전거 박물관** https://www.youtube.com/watch?v=15DWtdEnedk]
 
-* 김천 **친환경생태공원**
+* 김천 **친환경생태공원** [https://www.youtube.com/watch?v=7ktSzhpNsKg]
 
-* 
+* 울진 근남면 **울진왕피천공원** [https://www.youtube.com/watch?v=0YpsvKINrrw]
 
 ### [경상남도]
 
@@ -81,7 +81,7 @@ title: VR
 
 * 거창군 남산면 창포원길 **거창 창포원** [https://www.youtube.com/watch?v=2lCfdaes-i4]
 
-*
+* 창녕 성산면 **성곡 친환경마을** [https://www.youtube.com/watch?v=idICA_5u_fY]
 
 <br/>
 
