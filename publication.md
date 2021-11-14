@@ -1,9 +1,7 @@
 ---
 layout: page
-title: publication
+title: Publication
 ---
-
-!["C:\Users\82106\Desktop\푸릇여행도시락.jpg"]("C:\Users\82106\Desktop\푸릇여행도시락.jpg")
 
 ### 오늘도 GLB와 함께 행복한 하루 보내세요!
 
