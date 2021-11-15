@@ -14,7 +14,7 @@ author: Hyein Kim
 navbar-links:
   Login: "login", "logout"
   Vr: "vr"
-  Publication: "publication"
+  Environment: "environment"
   Blog: "blog"
   Project: "project"
 
