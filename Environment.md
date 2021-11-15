@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Environment
+title: Publication
 ---
 
 ## 오늘도 GLB와 함께 행복한 하루 보내세요!
