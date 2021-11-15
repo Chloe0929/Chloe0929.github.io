@@ -15,7 +15,7 @@ navbar-links:
   Login: "login"
   Logout: "logout"
   Vr: "vr"
-  Environment: "environment"
+  Publication: "publication"
   Blog: "blog"
   Project: "project"
 
